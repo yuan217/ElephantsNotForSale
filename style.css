@@ -361,11 +361,15 @@ form{
   padding-right: 20px;
 }
 
+.please{
+  color: white;
+}
+
 .please:hover{
   color: white;
-  position:relative;
-  top:1.5px;
-  left:1.5px;
+  position: relative;
+  top: 1.5px;
+  left: 1.5px;
 }
 
 .please:visited{color: white;}
